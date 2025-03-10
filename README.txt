@@ -1,31 +1,77 @@
-Stellar by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# Nikhil's Portfolio
 
+Welcome to my personal portfolio website! This project showcases my skills, projects, and experience as a developer. It is built with modern web technologies and hosted on GitHub Pages.
 
-Say hello to Stellar, a slick little one-pager with a super vibrant color palette (which
-I guess you can always tone down if it's a little too vibrant for you), a "sticky" in-page
-nav bar (powered by my Scrollex plugin), a separate generic page template (just in case
-you need one), and an assortment of pre-styled elements.
+## 🚀 Live Demo
+Check out the live website: [Live Demo](https://nikhilinnovates.github.io/portfolio_Nikhil/)
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+---
 
-(* = not included)
+## 🛠️ Built With
 
-AJ
-aj@lkn.io | @ajlkn
+- **Frontend**: HTML, CSS, JavaScript
+- **Frameworks**: [React](https://reactjs.org/), [Next.js](https://nextjs.org/)
+- **Styling**: [Tailwind CSS](https://tailwindcss.com/)
+- **Animations**: [Framer Motion](https://www.framer.com/motion/)
+- **Email Integration**: [React Email](https://react.email/) & [Resend](https://resend.com/)
+- **Hosting**: [GitHub Pages](https://pages.github.com/)
 
+---
 
-Credits:
+## 📂 Project Structure
 
-	Demo Images:
-		Unsplash (unsplash.com)
+Here’s an overview of the project structure:
 
-	Icons:
-		Font Awesome (fontawesome.io)
+```
+my-portfolio/
+├── assets/
+│   ├── css/              # Stylesheets
+│   ├── images/           # Images and icons
+│   └── js/               # JavaScript files
+├── index.html            # Main HTML file
+├── README.md             # Project documentation
+└── ...                   # Other files and folders
+```
 
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+---
+
+## 🚀 How to Run Locally
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/NikhilInnovates/portfolio_Nikhil.git
+   ```
+
+2. **Navigate to the project folder**:
+   ```bash
+   cd portfolio_Nikhil
+   ```
+
+3. **Open the website**:
+   - Open the `index.html` file in your browser.
+
+---
+
+## 🎨 Features
+
+- **Responsive Design**: Works seamlessly on all devices (desktop, tablet, mobile).
+- **Dark Mode**: Toggle between light and dark themes.
+- **Smooth Animations**: Powered by Framer Motion for a modern look and feel.
+- **Contact Form**: Integrated with React Email and Resend for sending emails.
+
+---
+
+## 📜 License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+---
+
+## 🙏 Acknowledgments
+
+- Thanks to [Tailwind CSS](https://tailwindcss.com/) for the amazing styling framework.
+- Inspired by [Awesome Portfolios](https://github.com/emmabostian/developer-portfolios).
+
+---
+
+Made with ❤️ by [Nikhil](https://github.com/NikhilInnovates)
