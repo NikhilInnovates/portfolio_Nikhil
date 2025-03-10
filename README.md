@@ -1,6 +1,6 @@
 # Nikhil's Portfolio
 
-Welcome to my personal portfolio website! This project showcases my skills, projects, and experience as a developer. It is built with modern web technologies and hosted on GitHub Pages.
+Welcome to my personal portfolio website! This project showcases my skills, projects, and experience as a developer. It is built with modern web technologies and hosted on GitHub Pages. 
 
 ## 🚀 Live Demo
 Check out the live website: [Live Demo](https://nikhilinnovates.github.io/portfolio_Nikhil/)
